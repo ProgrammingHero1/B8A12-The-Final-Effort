@@ -16,3 +16,4 @@ All Assignment Submission Deadline: 3rd December 2023
  - 60 marks deadline is till 29th November
  - Check Assignment rules pdf again & recheck how to select your assignment category.
  - assignment12_category_0018 has small updates in requirement <b>A user can create only one shop at a time</b>, Check the requirement again from this repository
+ - assignment12_category_0007 has small updates in requirement, Check the requirement again from this repository
