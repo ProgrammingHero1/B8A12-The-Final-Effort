@@ -18,4 +18,5 @@ All Assignment Submission Deadline: 3rd December 2023
  - assignment12_category_0018 has small updates in requirement <b>A user can create only one shop at a time</b>, Check the requirement again from this repository
  - assignment12_category_0007 has small updates in the requirement, recheck the requirement from this repository
  - assignment12_category_0007 has small updates in requirement 13, recheck the requirement from this repository.
+ - assignment12_category_0008 has small updates in requirement, Check the requirement again from this repository
 
