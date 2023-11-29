@@ -24,4 +24,5 @@ All Assignment Submission Deadline: 3rd December 2023
  - assignment12_category_0016 has small updates in Available Camps Page point 2, Check the requirement again from this repository
  - assignment12_category_0008 has small updates again, Check the requirement again from this repository
  - assignment12_category_0000 has a small update in reuirement 6 (Search page). Check the requirement again from this repository
+ - assignment12_category_0016 has a small update in reuirement. Check the requirement again from this repository
 
