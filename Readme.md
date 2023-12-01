@@ -5,7 +5,7 @@
 
 50 marks: Not available
 
-All Assignment Recheck and Submission Deadline: 3rd December 2023
+All Assignment Recheck and Submission Deadline: 4th December 2023
 
 ## [ Client Side Private repo:](https://classroom.github.com/a/9G30QT75)(https://classroom.github.com/a/9G30QT75)
 
