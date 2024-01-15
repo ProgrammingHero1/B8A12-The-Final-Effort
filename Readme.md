@@ -7,7 +7,6 @@
 
 
 ## :triangular_flag_on_post: Some updates
- - 60 marks deadline is till 30th November
  - Check the Assignment rules pdf again & recheck how to select your assignment category.
  - assignment12_category_0018 has small updates in requirement <b>A user can create only one shop at a time</b>, Check the requirement again from this repository
  - assignment12_category_0007 has small updates in the requirement, recheck the requirement from this repository
