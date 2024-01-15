@@ -1,11 +1,5 @@
 # B8A12-The-Final-Effort
-## -Assignment Deadline:
 
-60 marks: 30th November, 2023 11:59 pm
-
-50 marks: Not available
-
-All Assignment Recheck and Submission Deadline: 4th December 2023
 
 ## [ Client Side Private repo:](https://classroom.github.com/a/9G30QT75)(https://classroom.github.com/a/9G30QT75)
 
